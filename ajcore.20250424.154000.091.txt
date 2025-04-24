@@ -1,0 +1,72 @@
+---- AspectJ Properties ---
+AspectJ Compiler 1.9.9.1 built on Thursday Mar 31, 2022 at 05:00:07 PDT
+---- Dump Properties ---
+Dump file: ajcore.20250424.154000.091.txt
+Dump reason: org.aspectj.weaver.BCException
+Dump on exception: true
+Dump at exit condition: abort
+---- Exception Information ---
+---- System Properties ---
+java.specification.version=21
+sun.cpu.isalist=amd64
+sun.jnu.encoding=Cp1252
+org.gradle.test.worker=1
+java.class.path=C:\\Users\\eka\\.gradle\\caches\\8.10\\workerMain\\gradle-worker.jar;C:\\Users\\eka\\IdeaProjects\\tugas18\\build\\classes\\java\\test;C:\\Users\\eka\\IdeaProjects\\tugas18\\build\\resources\\test;C:\\Users\\eka\\IdeaProjects\\tugas18\\build\\classes\\java\\main;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\io.qameta.allure\\allure-testng\\2.25.0\\b05efad1620bbed1fee94221f3943cf5c5f53288\\allure-testng-2.25.0.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\org.testng\\testng\\7.9.0\\1434bfa83137430aef6322023e2b944074f9e87f\\testng-7.9.0.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\io.rest-assured\\rest-assured\\5.4.0\\7ebfc6d591e132e7b39f13bac9280cc0e4fa4b\\rest-assured-5.4.0.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\org.hamcrest\\hamcrest\\2.2\\1820c0968dba3a11a1b30669bb1f01978a91dedc\\hamcrest-2.2.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\io.qameta.allure\\allure-test-filter\\2.25.0\\174ac6e8fc752552a816bbbb173a7ae4cdd27592\\allure-test-filter-2.25.0.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\io.qameta.allure\\allure-java-commons\\2.25.0\\2857d1547c9106dc92a59c0b1a0009832a310fe2\\allure-java-commons-2.25.0.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\org.slf4j\\slf4j-api\\1.7.36\\6c62681a2f655b49963a5983b8b0950a6120ae14\\slf4j-api-1.7.36.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\com.beust\\jcommander\\1.82\\a7c5fef184d238065de38f81bbc6ee50cca2e21\\jcommander-1.82.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\org.webjars\\jquery\\3.7.1\\42088e652462c40a369b64d87e18e825644acfab\\jquery-3.7.1.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\io.rest-assured\\xml-path\\5.4.0\\928041ca2ad08c45ce8008f0cf388297bdc06efe\\xml-path-5.4.0.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\io.rest-assured\\json-path\\5.4.0\\83ed73b55e45300209493294ddc09ca5f61c46b6\\json-path-5.4.0.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.groovy\\groovy-json\\4.0.16\\a1033674f0502962728eec12c9536ef827736fdb\\groovy-json-4.0.16.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.groovy\\groovy-xml\\4.0.16\\bcdc17895f0125721ff11d9a051b2fa77f2b262e\\groovy-xml-4.0.16.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\io.rest-assured\\rest-assured-common\\5.4.0\\bdb5a25ba37cade60641ce76f9dccbaa08e22ba3\\rest-assured-common-5.4.0.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.groovy\\groovy\\4.0.16\\4b23ab8f542bbbb517061cf5a0d401b632de9832\\groovy-4.0.16.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.httpcomponents\\httpmime\\4.5.13\\efc110bad4a0d45cda7858e6beee1d8a8313da5a\\httpmime-4.5.13.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.httpcomponents\\httpclient\\4.5.13\\e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada\\httpclient-4.5.13.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\org.ccil.cowan.tagsoup\\tagsoup\\1.2.1\\5584627487e984c03456266d3f8802eb85a9ce97\\tagsoup-1.2.1.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.httpcomponents\\httpcore\\4.4.13\\853b96d3afbb7bf8cc303fe27ee96836a10c1834\\httpcore-4.4.13.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\commons-logging\\commons-logging\\1.2\\4bfc12adfe4842bf07b657f0369c4cb522955686\\commons-logging-1.2.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\commons-codec\\commons-codec\\1.11\\3acb4705652e16236558f0f4f2192cc33c3bd189\\commons-codec-1.11.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.commons\\commons-lang3\\3.11\\68e9a6adf7cf8eb7e9d31bbc554c7c75eeaac568\\commons-lang3-3.11.jar;C:\\Users\\eka\\.gradle\\caches\\modules-2\\files-2.1\\io.qameta.allure\\allure-model\\2.25.0\\7bb17d84ebcc2e81d0c5d8aab9451396dd9e9d00\\allure-model-2.25.0.jar
+java.vm.vendor=Oracle Corporation
+sun.arch.data.model=64
+user.variant=
+java.vendor.url=https://java.oracle.com/
+user.timezone=Asia/Jakarta
+java.vm.specification.version=21
+os.name=Windows 10
+user.country=ID
+sun.java.launcher=SUN_STANDARD
+sun.boot.library.path=C:\Program Files\Java\jdk-21\bin
+sun.java.command=worker.org.gradle.process.internal.worker.GradleWorkerMain 'Gradle Test Executor 1'
+jdk.debug=release
+allure.results.directory=C:\Users\eka\IdeaProjects\tugas18\build\allure-results
+sun.cpu.endian=little
+user.home=C:\Users\eka
+user.language=en
+java.specification.vendor=Oracle Corporation
+java.version.date=2024-10-15
+java.home=C:\Program Files\Java\jdk-21
+file.separator=\
+java.vm.compressedOopsMode=32-bit
+line.separator=
+
+java.vm.specification.vendor=Oracle Corporation
+java.specification.name=Java Platform API Specification
+user.script=
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+java.runtime.version=21.0.5+9-LTS-239
+user.name=eka
+stdout.encoding=Cp1252
+path.separator=;
+os.version=10.0
+java.runtime.name=Java(TM) SE Runtime Environment
+file.encoding=UTF-8
+java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+java.vendor.url.bug=https://bugreport.java.com/bugreport/
+java.io.tmpdir=C:\Users\eka\AppData\Local\Temp\
+java.version=21.0.5
+user.dir=C:\Users\eka\IdeaProjects\tugas18
+os.arch=amd64
+java.vm.specification.name=Java Virtual Machine Specification
+org.gradle.internal.worker.tmpdir=C:\Users\eka\IdeaProjects\tugas18\build\tmp\test\work
+sun.os.patch.level=
+native.encoding=Cp1252
+java.library.path=C:\Program Files\Java\jdk-21\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files\gradle\gradle-8.12.1\bin;C:\Users\eka\scoop\shims;C:\Users\eka\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\eka\AppData\Local\Programs\Python\Python312\;C:\Users\eka\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.1;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.2.1\bin;.
+junit.jupiter.extensions.autodetection.enabled=true
+java.vm.info=mixed mode, sharing
+stderr.encoding=Cp1252
+java.vendor=Oracle Corporation
+java.vm.version=21.0.5+9-LTS-239
+sun.io.unicode.encoding=UnicodeLittle
+java.class.version=65.0
+---- Command Line ---
+Empty
+---- Full Classpath ---
+Empty
+---- Compiler Messages ---
+Empty
